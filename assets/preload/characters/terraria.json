@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				250,
+				299
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "terrariaLeft"
+		},
+		{
+			"offsets": [
+				200,
+				310
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "terrariaDown"
+		},
+		{
+			"offsets": [
+				230,
+				187
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "terrariaRight"
+		},
+		{
+			"offsets": [
+				94,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "terrariaUp"
+		},
+		{
+			"offsets": [
+				-40,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "newIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/terraria_assets",
+	"position": [
+		-10,
+		170
+	],
+	"healthicon": "terraria",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		137,
+		76
+	],
+	"camera_position": [
+		-70,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "adIdle",
+	"image": "americanDad_assets",
+	"position": [
+		170,
+		120
+	],
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}

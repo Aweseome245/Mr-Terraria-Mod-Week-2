@@ -1,0 +1,48 @@
+{
+	"storyName": "Mr Terraria's Funkier Beats",
+	"hideFreeplay": false,
+	"weekBackground": "terraria",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"terrariamenu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Welcome Back",
+			"terraria",
+			[
+				60,
+				173,
+				33
+			]
+		],
+		[
+			"The Chill Zone",
+			"terraria",
+			[
+				60,
+				173,
+				33
+			]
+		],
+		[
+			"Later Nerd",
+			"terraria",
+			[
+				60,
+				173,
+				33
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "MrTerrariaWeek"
+}

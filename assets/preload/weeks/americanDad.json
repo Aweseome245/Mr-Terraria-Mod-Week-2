@@ -1,0 +1,30 @@
+{
+	"storyName": "Hell",
+	"hideFreeplay": false,
+	"weekBackground": "ad",
+	"weekBefore": "mrTerraria",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"americandad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Slightly Hell",
+			"americandad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "americandadweek"
+}

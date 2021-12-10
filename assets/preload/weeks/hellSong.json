@@ -1,0 +1,30 @@
+{
+	"storyName": "haha yes",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "americanDad",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"terrariaMenu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"True Hell",
+			"terraria",
+			[
+				106,
+				153,
+				33
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "hellSong"
+}

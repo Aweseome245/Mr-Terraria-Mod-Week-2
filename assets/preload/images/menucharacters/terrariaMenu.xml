@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="terrariaMenu.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TerrariaMenu0000" x="0" y="0" width="632" height="576" frameX="0" frameY="-12" frameWidth="632" frameHeight="600"/>
+	<SubTexture name="TerrariaMenu0001" x="632" y="0" width="632" height="582" frameX="0" frameY="-8" frameWidth="632" frameHeight="600"/>
+	<SubTexture name="TerrariaMenu0002" x="1264" y="0" width="632" height="588" frameX="0" frameY="-5" frameWidth="632" frameHeight="600"/>
+	<SubTexture name="TerrariaMenu0003" x="0" y="588" width="632" height="593" frameX="0" frameY="-2" frameWidth="632" frameHeight="600"/>
+	<SubTexture name="TerrariaMenu0004" x="632" y="588" width="632" height="598" frameX="0" frameY="0" frameWidth="632" frameHeight="600"/>
+	<SubTexture name="TerrariaMenu0005" x="1264" y="588" width="632" height="600"/>
+	<SubTexture name="TerrariaMenu0006" x="1264" y="588" width="632" height="600"/>
+	<SubTexture name="TerrariaMenu0007" x="1264" y="588" width="632" height="600"/>
+	<SubTexture name="TerrariaMenu0008" x="1264" y="588" width="632" height="600"/>
+	<SubTexture name="TerrariaMenu0009" x="1264" y="588" width="632" height="600"/>
+</TextureAtlas>

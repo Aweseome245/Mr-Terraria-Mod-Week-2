@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "terrariaPortrait",
+			"boxState": "normal",
+			"expression": "troll",
+			"text": "so did you have fun rapping against him?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "a"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "terrariaPortrait",
+			"boxState": "normal",
+			"expression": "troll",
+			"text": "this is almost as funny as the time i deleted\\ngf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "stfu"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "terrariaPortrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dont worry he wasnt the hardest song"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "terrariaPortrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "go to freeplay, you'll see what i mean"
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "terrariaPortrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if none of this makes sense, play the 1st week"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "terrariaPortrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "link is\\\\nhttps://www.youtube.com/watch?v=dQw4w9WgXcQ"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "wtf bro"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "terrariaPortrait",
+			"boxState": "normal",
+			"expression": "troll",
+			"text": "oops wrong link, its\\\\nhttps://www.roblox.com/games/2155449728/the-COOL-zone"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "how do you even remember that"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "terrariaPortrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who cares, lets start the next song"
+		}
+	]
+}

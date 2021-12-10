@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "terrariaPortrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Im back lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "terrariaPortrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it turns out the twitter people are crazy\\nweird"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "terrariaPortrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "they have these weird monkey drawings\\\\nthat look stupid"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "terrariaPortrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "anyway, rap battle now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep pa bo!"
+		}
+	]
+}
