@@ -1,7 +1,10 @@
 # Vs Mr Terraria Mod
 Made by Aweseome245 and Some Kid
+
 Huge thanks to Psych Engine Team for the engine, and thanks to Brightfyre, catbrother everything and bbpanzu for teaching me how to Haxe
+
 Listen to the OST [here](https://www.youtube.com/playlist?list=PLMXhbZHWUYdydvL7xqJjjDMkyUpliWttR).
+
 Thank you for playing!
 
 # Friday Night Funkin' - Psych Engine
